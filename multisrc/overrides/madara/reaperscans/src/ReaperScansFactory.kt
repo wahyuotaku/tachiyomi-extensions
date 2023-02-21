@@ -49,7 +49,7 @@ class ReaperScansTr : ReaperScans(
     override val mangaDetailsSelectorTag = ""
 }
 
-class ReaperScansId : ReaperScans("https://reaperscans.id", "id") {
+class ReaperScansId : ReaperScans("https://shinigami.id", "id") {
 
     // Tags are useless as they are just SEO keywords.
     override val mangaDetailsSelectorTag = ""
